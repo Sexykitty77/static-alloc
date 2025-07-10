@@ -12,7 +12,7 @@
 //! conversion correctly. The _using_ this function is safe and enables any particular user-defined
 //! pointer wrapper to safely transform itself. Note that for a limited selection of standard
 //! traits we can even go so far as offer pre-built converters that are safe to use in general.
-// Copyright 2019-2021 Andreas Molzer
+// Copyright 2019-2021 Aurelia Molzer
 #![no_std]
 #![deny(missing_docs)]
 

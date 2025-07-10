@@ -1,12 +1,12 @@
 [package]
 name = "static-alloc"
-version = "0.2.5"
+version = "0.2.6"
 description = "A bump allocator on static memory for the alloc-traits crate"
-authors = ["Andreas Molzer <andreas.molzer@gmx.de>"]
+authors = ["Aurelia Molzer <5550310+197g@users.noreply.github.com>"]
 edition = "2018"
 license = "MIT OR Apache-2.0 OR Zlib"
 documentation = "https://docs.rs/static-alloc"
-repository = "https://github.com/HeroicKatora/static-alloc"
+repository = "https://github.com/197g/static-alloc"
 readme = "Readme.md"
 categories = ["embedded", "memory-management", "no-std"]
 
