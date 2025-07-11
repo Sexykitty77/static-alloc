@@ -40,7 +40,7 @@
 //! dynamic values without accidentally exposing or using uninitialized memory. This allows
 //! obtaining `&'static mut T` instances which is handy if a struct requires a mutable reference
 //! but it is also required that this struct has `'static` lifetime bounds itself.
-// Copyright 2019,2022 Andreas Molzer
+// Copyright 2019,2022 Aurelia Molzer
 #![no_std]
 #![deny(missing_docs)]
 

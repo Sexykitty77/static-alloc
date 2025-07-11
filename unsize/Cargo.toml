@@ -2,7 +2,7 @@
 name = "unsize"
 version = "1.1.0"
 description = "A stable alternative to CoerceUnsized"
-authors = ["Andreas Molzer <andreas.molzer@gmx.de>"]
+authors = ["Aurelia Molzer <5550310+197g@users.noreply.github.com>"]
 edition = "2018"
 license = "MIT OR Apache-2.0 OR Zlib"
 documentation = "https://docs.rs/unsize"

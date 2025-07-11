@@ -1,3 +1,8 @@
+# v0.2.6
+
+- Fix an unsoundness bug in `MemBump::new` (available under feature `alloc`)
+  that left the counter of occupied bytes uninitialized.
+
 # v0.2.5
 
 - Bump `atomic-polyfill` to `1`, as discovered during Debian packaging.
